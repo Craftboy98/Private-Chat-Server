@@ -1,5 +1,5 @@
 # Private-Chat-Server
-Python based Private Chat Server to msg and hangout with your crush and friends 😊, in a Total Private Space
+Python based Private Chat Server to msg and hangout with your crush, girlfirend, boyfriend and friends 😊, in a Total Private Space
 
 ## Changing things on config Files
 ```sh
@@ -14,7 +14,7 @@ With config.json        :-
 ```sh
 You must use Python 3.9 or higher
 
-git clone https://github.com/Yuvaraja28/Private-Chat-Server
+git clone https://github.com/Craftboy98/MSC-Private-Chat-Server/
 Install Python3 modules
  - pip3 install -r requirements.txt  <or>  pip install -r requirements.txt
  - python3 app.py -p 80
@@ -23,8 +23,8 @@ Install Python3 modules
 ```sh
 Install python - https://www.python.org
 Install Git - https://gitforwindows.org
-git clone https://github.com/Yuvaraja28/Private-Chat-Server
-cd Private-Chat-Server
+git clone https://github.com/Craftboy98/MSC-Private-Chat-Server/
+cd MSC-Private-Chat-Server
  - pip3 install -r requirements.txt  <or>  pip install -r requirements.txt
  - python3 app.py -p 80
 ```
