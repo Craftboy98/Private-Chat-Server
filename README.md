@@ -3,12 +3,15 @@ Python based Private Chat Server to msg and hangout with your crush, girlfirend,
 
 ## Changing things on config Files
 ```sh
-There are two config files for you with this Chat-Server
+This is the config file for Private-Chat-Server
  - config.json           This is the Python Server Side config file
 With config.json        :-
     - Here you can Change the Account UserName and Password
     - Config for Discord Webhook
 ```
+|Picture Of Config|
+|---|
+|![config](https://user-images.githubusercontent.com/64340067/175651405-b79a924a-90ee-49ca-bbd5-6fb1836fbfc3.png)|
 
 ## Usage on Linux
 ```sh
